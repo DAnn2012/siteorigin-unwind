@@ -101,6 +101,9 @@ Original design files are available on [Google Drive](https://drive.google.com/f
 
 == Changelog ==
 
+= 1.9.16 - 13 August 2024 =
+* Updated Tested up to and Required PHP tags.
+
 = 1.9.15 - 11 February 2024 =
 * Updated Tested up to tag.
 * Updated SiteOrigin Settings framework.
