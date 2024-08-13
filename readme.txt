@@ -101,6 +101,25 @@ Original design files are available on [Google Drive](https://drive.google.com/f
 
 == Changelog ==
 
+= 1.9.15 - 11 February 2024 =
+* Updated Tested up to tag.
+* Updated SiteOrigin Settings framework.
+
+= 1.9.14 - 15 October 2023 =
+* Updated SiteOrigin Settings.
+
+= 1.9.13 - 24 July 2023 =
+* Simplified the display of the custom logo in the `siteorigin_unwind_display_logo` function.
+* Refactored the site title display logic in the `siteorigin_unwind_display_logo` function for improved readability.
+* Updated the Settings submodule to its latest version.
+
+= 1.9.12 - 18 May 2023 =
+* Resolved `siteorigin_unwind_logo_after` outputting early.
+* Updated SiteOrigin Settings.
+
+= 1.9.11 - 25 April 2023 =
+* Resolved Settings missing text domain.
+
 = 1.9.10 - 22 April 2023 =
 * Moved breadcrumb functionality to SiteOrigin Settings framework.
 
