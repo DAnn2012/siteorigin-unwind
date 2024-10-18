@@ -1654,7 +1654,7 @@ a {
     .alt-logo-scroll {
       display: none; }
     body.sticky-bar-out #masthead .alt-logo-scroll {
-      display: block; }
+      display: inline-block; }
   #masthead #masthead-widgets {
     margin: 60px auto; }
     #masthead #masthead-widgets::after {
