@@ -101,6 +101,10 @@ Original design files are available on [Google Drive](https://drive.google.com/f
 
 == Changelog ==
 
+= 1.9.17 - 18 October 2024 =
+* Ensured sticky logo always correctly aligned.
+* Updated SiteOrigin Settings framework.
+
 = 1.9.16 - 13 August 2024 =
 * Updated Tested up to and Required PHP tags.
 
