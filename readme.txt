@@ -101,6 +101,12 @@ Original design files are available on [Google Drive](https://drive.google.com/f
 
 == Changelog ==
 
+= 1.9.19 - 19 June 2025 =
+* Avatars: Increased avatar resolution for high-DPI displays.
+* Settings: Updated SiteOrigin Settings framework.
+* Updated Tested up to tag.
+* Developer: Compiled Sass changes into generated CSS.
+
 = 1.9.18 - 14 November 2024 =
 * Updated WooCommerce Form Checkout template to version 9.4.0.
 
